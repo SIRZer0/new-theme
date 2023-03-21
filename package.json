@@ -1,17 +1,19 @@
 {
-    "title": "Name of the theme",
-    "name": "github-<owner>-<repo>",
-    "description": "A sample dark theme.",
+    "title": "new-theme",
+    "name": "gh-SIRZer0-new-theme",
+    "description": "new-theme",
     "version": "0.0.1",
-    "license": "MIT",
-    "author": "your name (https://github.com/<your github id>)",
-    "homepage": "<project web page url or this github repo url if no website available>",
+    "license": "MIT License",
+    "author": "SIRZer0",
+    "homepage": "https://github.com/SIRZer0/new-theme",
     "engines": {
         "brackets": ">=2.0.0"
     },
     "categories": "demo",
     "keywords": [
-        "phcode", "theme", "demo"
+        "phcode",
+        "theme",
+        "demo"
     ],
     "theme": {
         "file": "my-theme.less",
